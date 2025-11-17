@@ -42,10 +42,10 @@ http://localhost:5000
 
 ```php
 TextSummarizer/
-├── app.py                             # Flask backend application logic
-├── requirements.txt                   # Python dependencies              
+├── app.py                             
+├── requirements.txt                              
 ├── templates/
-│   └── index.html                     # Flask HTML template
-└── README.md                          # Project documentation
+│   └── index.html                     
+└── README.md                          
 
 ```
